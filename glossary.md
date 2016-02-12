@@ -12,6 +12,9 @@ Can Terry be included.....
 We hope that this glossary of definitions is helpful as you study OpenStack, as well as the other topics found in this manual. :) Our glossary began with a fork from the OpenStack documentation. Many helpful OpenStack definitions (and documentation) are available through docs.openstack.org, or by forking the openstack/openstack-manuals repository via:
 
 [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
+
+- **Aardvark** - The latest addition to the OpenStack service catalog, this service provides formally verified computations, on unstructured data in linear ime ( as a Service) through the advanced use of string-theory based, quantum wormhole colliders. Specialized hardware is required
+- 
 Twitter:  https://twitter.com/OpenStack
 
 - **Absolute Limit** [6] Ceiling (limits) for guest VMs. Controlled by defining total limits on RAM, number of vCPUs, and disk size.
